@@ -9,7 +9,7 @@ I'm a front-end developer eagerly looking for new technologies to learn. All cod
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.cstaton.dev/">
-    <img src="https://img.shields.io/badge/-Portfolio-red" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
@@ -28,6 +28,8 @@ I'm a front-end developer eagerly looking for new technologies to learn. All cod
 <br />
 
 #
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-staton&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.cstaton.dev/
 [linkedin]: https://www.linkedin.com/in/cstatondev
